@@ -3,7 +3,7 @@ enyo-componantwrap
 
 An inheritable kind for enyo.js that will allow you to wrap the callers defined components in the your kind's own components
 
-To designate in which of your components you want the canner's defined components embedded, name it "wrapper"
+To designate in which of your components you want the caller's defined components embedded, name it "wrapper"
 
 ```javascript
 enyo.kind({
