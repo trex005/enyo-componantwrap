@@ -1,5 +1,5 @@
 enyo.kind({
-    name:'ComponentWrap'
+    name:'ComponentWrap',
     constructor:function(props){
         this.newComponents = props.components;
         props.components = [];
